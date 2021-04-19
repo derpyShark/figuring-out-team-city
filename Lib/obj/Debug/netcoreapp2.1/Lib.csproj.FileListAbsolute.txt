@@ -1,9 +1,0 @@
-D:\study\workstudy\Lib\Lib\bin\Debug\netcoreapp2.1\Lib.deps.json
-D:\study\workstudy\Lib\Lib\bin\Debug\netcoreapp2.1\Lib.dll
-D:\study\workstudy\Lib\Lib\bin\Debug\netcoreapp2.1\Lib.pdb
-D:\study\workstudy\Lib\Lib\obj\Debug\netcoreapp2.1\Lib.csprojAssemblyReference.cache
-D:\study\workstudy\Lib\Lib\obj\Debug\netcoreapp2.1\Lib.csproj.CoreCompileInputs.cache
-D:\study\workstudy\Lib\Lib\obj\Debug\netcoreapp2.1\Lib.AssemblyInfoInputs.cache
-D:\study\workstudy\Lib\Lib\obj\Debug\netcoreapp2.1\Lib.AssemblyInfo.cs
-D:\study\workstudy\Lib\Lib\obj\Debug\netcoreapp2.1\Lib.dll
-D:\study\workstudy\Lib\Lib\obj\Debug\netcoreapp2.1\Lib.pdb
